@@ -1,0 +1,12 @@
+chop_port: 8000
+dat_port: 9500
+reset_port: 8888
+
+monitor_w: 1080 
+monitor_h: 1920
+max_monitor_cols: 5
+max_monitor_rows: 3
+
+ID: 1
+#if ID = 1 -> PC is leader
+#if ID = 0 -> PC is follower
