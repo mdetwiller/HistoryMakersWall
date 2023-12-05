@@ -1,0 +1,103 @@
+{
+    "data" :{
+        "portrait_sets" :[
+            {
+                "set_id" :0,
+                "B5": "050923_0000_Allen, Lillie Bell.jpg",
+                "B6": "050923_0001_Arians, Bruce.jpg",
+                "B7": "050923_0002_Chapman, Mattie.jpg",
+                "C4": "050923_0003_Chatman, Thomas.jpg",
+                "C5": "050923_0004_Davisp25.jpg",
+                "C6": "050923_0005_Eyster, Elaine.jpg",
+                "C7": "050923_0006_Garcia-Jones, Vilma.jpg",
+                "C8": "050923_0007_Glatfelter, Art.jpg",
+                "D4": "050923_0008_GV .jpg",
+                "D5": "050923_0009_Haines, Mahlon.jpg",
+                "D6": "050923_0010_Hoffman.jpg",
+                "D7": "050923_0011_Jessop, Jonathan.jpg"
+            },
+            {
+                "set_id" :1,
+                "B5": "050923_0012_Koons, Jeff.jpg",
+                "B6": "050923_0013_Meyer, Catherine.jpg",
+                "B7": "050923_0014_Miller, Lewis.jpg",
+                "C4": "050923_0015_Noor, Nabela.jpg",
+                "C5": "050923_0016_Oliver, Hester.jpg",
+                "C6": "050923_0017_Brady, Pappas.jpg",
+                "C7": "050923_0018_Rivera, Delma .jpg",
+                "C8": "050923_0019_Schaad, Henry.jpg",
+                "D4": "050923_0020_Schreiber, Kevin.jpg",
+                "D5": "050923_0021_Small, Casandra-Blair.jpg",
+                "D6": "050923_0022_Kinsley, Bob.jpg",
+                "D7": "050923_0023_Saylor, Stan.jpg"
+            },
+            {
+                "set_id" :2,
+                "B5": "050923_0024_Small, Mary J.jpg",
+                "B6": "050923_0025_Bracey, Kim.jpg",
+                "B7": "050923_0026_Durang, John Hornpipe.jpg",
+                "C4": "050923_0027_Huber, Anna.jpg",
+                "C5": "050923_0028_Leader, George.jpg",
+                "C6": "050923_0029_Smallwood, Prof. James.jpg",
+                "C7": "050923_0030_Thackston, Helen .jpg",
+                "C8": "050923_0031_Blymire, Randy.jpg",
+                "D4": "050923_0032_Bowles, DRGBowles.jpg",
+                "D5": "050923_0033_Glatfelter, PH.jpg",
+                "D6": "050923_0034_Rawlings, Gladys.jpg",
+                "D7": "050923_0035_Shaffer, Earl .jpg"
+            }
+            
+        ],
+        "takeover_sets" : [
+            {
+                "set_id" :0,
+                "animation_curve" : 1,
+                "B5": "Wall_Homefront_B5.jpg",
+                "B6": "Wall_Homefront_B6.jpg",
+                "B7": "Wall_Homefront_B7.jpg",
+                "C4": "Wall_Homefront_C4.jpg",
+                "C5": "Wall_Homefront_C5.jpg",
+                "C6": "Wall_Homefront_C6.jpg",
+                "C7": "Wall_Homefront_C7.jpg",
+                "C8": "Wall_Homefront_C8.jpg",
+                "D4": "Wall_Homefront_D4.jpg",
+                "D5": "Wall_Homefront_D5.jpg",
+                "D6": "Wall_Homefront_D6.jpg",
+                "D7": "Wall_Homefront_D7.jpg"
+            },
+            {
+                "set_id" :1,
+                "animation_curve" : 2,
+                "B5": "wall_allen.jpg",
+                "B6": "wall_allen.jpg",
+                "B7": "wall_allen.jpg",
+                "C4": "wall_allen.jpg",
+                "C5": "wall_allen.jpg",
+                "C6": "wall_allen.jpg",
+                "C7": "wall_allen.jpg",
+                "C8": "wall_allen.jpg",
+                "D4": "wall_allen.jpg",
+                "D5": "wall_allen.jpg",
+                "D6": "wall_allen.jpg",
+                "D7": "wall_allen.jpg"
+            }
+
+        ],
+        "hasEvent" : false,
+        "event_set" : 
+        {
+            "B5": "wall_allen.jpg",
+            "B6": "wall_allen.jpg",
+            "B7": "wall_allen.jpg",
+            "C4": "wall_allen.jpg",
+            "C5": "wall_allen.jpg",
+            "C6": "wall_allen.jpg",
+            "C7": "wall_allen.jpg",
+            "C8": "wall_allen.jpg",
+            "D4": "wall_allen.jpg",
+            "D5": "wall_allen.jpg",
+            "D6": "wall_allen.jpg",
+            "D7": "wall_allen.jpg"
+        }
+    }
+}
